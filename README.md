@@ -44,11 +44,7 @@ El proyecto está desarrollado en **Python 3** y hace uso de las siguientes libr
 * **Seaborn:** Basado en Matplotlib, para generar visualizaciones estadísticas más atractivas.
 * **Google Colab:** Entorno de desarrollo interactivo (cuaderno Jupyter) donde se ejecutó y desarrolló el proyecto.
 
-## 📋 Requisitos (requirements.txt)
 
-¡Perfecto! Entiendo que quieres que junte toda la información relevante que hemos discutido sobre tu proyecto de análisis de datos y la presente de manera coherente en un solo bloque de texto Markdown, como un README.md completo.
-
-Aquí tienes el README.md final, integrando la descripción, características, tecnologías, requisitos, instrucciones de uso, estructura de archivos y secciones de contacto/licencia. He utilizado el nombre de repositorio Prediccion-Precios-Casas-Lima como ejemplo, pero recuerda ajustarlo a tu elección final.
 
 
 
